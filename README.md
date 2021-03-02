@@ -1,2 +1,1 @@
-# WebJorgeOC
-Pagina Web Diseñada para Jorge O'Connor
+# bootstrap-5-half-carousel-cover-template
